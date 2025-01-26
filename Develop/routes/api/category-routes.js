@@ -1,7 +1,9 @@
 const router = require("express").Router();
 const { Category, Product } = require("../../models"); // Import Category and Product models
 
-// The `/api/categories` endpoint
+// The `localhost:3001/api/categories` endpoint
+// for product
+// tag routes
 
 // GET all categories
 router.get("/", async (req, res) => {
