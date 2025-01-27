@@ -16,12 +16,11 @@ THEN I am able to successfully create, update, and delete data in my database
  
  This is my Github repo link. 
  https://github.com/maritzadiaz77/e-Commerce13 
- 
  Youtube link of walkthrough:
- 
+ https://youtu.be/xF3ofh00w0U?si=02uRuaU1yaDm86l5 
  ## Usage
  npm run start-> Insomnia
  ## Credits
- 
+ Thanks to my tutor juan for helping me understand this better.
  ## License
  N/A
